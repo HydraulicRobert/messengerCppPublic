@@ -1,0 +1,296 @@
+# depslib dependency file v1.0
+1574286958 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt\main.cpp
+	<iostream>
+	<windows.h>
+	"funktionen.h"
+	"datenbankobjekt.h"
+	"mysql.h"
+
+1574283169 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt\funktionen.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	<string.h>
+	"funktionen.h"
+
+1574283072 d:\program files\programmieren\c++\projekte c++\datenbankobjekt\funktionen.h
+	<string.h>
+
+1574282173 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt\datenbankobjekt.cpp
+	<iostream>
+	"datenbankobjekt.h"
+
+1574287055 d:\program files\programmieren\c++\projekte c++\datenbankobjekt\datenbankobjekt.h
+	<iostream>
+	<windows.h>
+	<mysql.h>
+
+1476109533 d:\program files\programmieren\c++\header\mysql.h
+	<sys/types.h>
+	<winsock.h>
+	"mysql_com.h"
+	"mysql_time.h"
+	"mysql_version.h"
+	"typelib.h"
+	"my_list.h"
+	"my_alloc.h"
+
+1476109546 d:\program files\programmieren\c++\header\mysql_com.h
+
+1476109572 d:\program files\programmieren\c++\header\mysql_time.h
+
+1476109583 d:\program files\programmieren\c++\header\mysql_version.h
+	<custom_conf.h>
+
+1476109723 d:\program files\programmieren\c++\header\typelib.h
+
+1476109768 d:\program files\programmieren\c++\header\my_list.h
+
+1476109777 d:\program files\programmieren\c++\header\my_alloc.h
+
+1476100533 c:\program files (x86)\dev-cpp\mingw64\include\mysql.h
+	<sys/types.h>
+	<winsock.h>
+	"mysql_com.h"
+	"mysql_time.h"
+	"mysql_version.h"
+	"typelib.h"
+	"my_list.h"
+	"my_alloc.h"
+
+1476100546 c:\program files (x86)\dev-cpp\mingw64\include\mysql_com.h
+
+1476100572 c:\program files (x86)\dev-cpp\mingw64\include\mysql_time.h
+
+1476100583 c:\program files (x86)\dev-cpp\mingw64\include\mysql_version.h
+	<custom_conf.h>
+
+1476100723 c:\program files (x86)\dev-cpp\mingw64\include\typelib.h
+
+1476100768 c:\program files (x86)\dev-cpp\mingw64\include\my_list.h
+
+1476100777 c:\program files (x86)\dev-cpp\mingw64\include\my_alloc.h
+
+1574283169 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt21112019\funktionen.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	<string.h>
+	"funktionen.h"
+
+1574283072 d:\program files\programmieren\c++\projekte c++\datenbankobjekt21112019\funktionen.h
+	<string.h>
+
+1574365440 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt21112019\main.cpp
+	<iostream>
+	<windows.h>
+	"funktionen.h"
+	"datenbankobjekt.h"
+	"mysql.h"
+
+1574365462 d:\program files\programmieren\c++\projekte c++\datenbankobjekt21112019\datenbankobjekt.h
+	<iostream>
+	<windows.h>
+	<mysql.h>
+
+1574365485 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt21112019\datenbankobjekt.cpp
+	<iostream>
+	"datenbankobjekt.h"
+	"funktionen.h"
+	<ctime>
+
+1574372114 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt21112019version2\datenbankobjekt.cpp
+	<iostream>
+	"datenbankobjekt.h"
+	"funktionen.h"
+	<ctime>
+
+1574371576 d:\program files\programmieren\c++\projekte c++\datenbankobjekt21112019version2\datenbankobjekt.h
+	<iostream>
+	<windows.h>
+	<mysql.h>
+
+1574371753 d:\program files\programmieren\c++\projekte c++\datenbankobjekt21112019version2\funktionen.h
+	<string.h>
+
+1574371800 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt21112019version2\funktionen.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	<string.h>
+	"funktionen.h"
+
+1574372012 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt21112019version2\kommandobruecke.cpp
+	<iostream>
+	<windows.h>
+	"funktionen.h"
+	"kommandobruecke.h"
+	"datenbankobjekt.h"
+	"mysql.h"
+
+1574371978 d:\program files\programmieren\c++\projekte c++\datenbankobjekt21112019version2\kommandobruecke.h
+
+1574371955 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt21112019version2\main.cpp
+	<iostream>
+	<windows.h>
+	"kommandobruecke.h"
+	"mysql.h"
+	"main.h"
+
+1574371792 d:\program files\programmieren\c++\projekte c++\datenbankobjekt21112019version2\main.h
+
+1574781363 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt26112019\funktionen.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	<string.h>
+	"funktionen.h"
+
+1574371753 d:\program files\programmieren\c++\projekte c++\datenbankobjekt26112019\funktionen.h
+	<string.h>
+
+1574783043 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt26112019\kommandobruecke.cpp
+	<iostream>
+	<windows.h>
+	"funktionen.h"
+	"kommandobruecke.h"
+	"datenbankobjekt.h"
+	"mysql.h"
+
+1574783242 d:\program files\programmieren\c++\projekte c++\datenbankobjekt26112019\kommandobruecke.h
+
+1574782481 d:\program files\programmieren\c++\projekte c++\datenbankobjekt26112019\datenbankobjekt.h
+	<iostream>
+	<windows.h>
+	<mysql.h>
+
+1574780949 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt26112019\main.cpp
+	<iostream>
+	<windows.h>
+	"kommandobruecke.h"
+	"mysql.h"
+	"main.h"
+
+1574371792 d:\program files\programmieren\c++\projekte c++\datenbankobjekt26112019\main.h
+
+1574782680 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt26112019\datenbankobjekt.cpp
+	<iostream>
+	"datenbankobjekt.h"
+	"funktionen.h"
+	<ctime>
+
+1574786524 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt26112019version2\datenbankobjekt.cpp
+	<iostream>
+	"datenbankobjekt.h"
+	"funktionen.h"
+	<ctime>
+
+1574786268 d:\program files\programmieren\c++\projekte c++\datenbankobjekt26112019version2\datenbankobjekt.h
+	<iostream>
+	<windows.h>
+	<mysql.h>
+
+1574784502 d:\program files\programmieren\c++\projekte c++\datenbankobjekt26112019version2\funktionen.h
+	<string.h>
+
+1574780949 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt26112019version2\main.cpp
+	<iostream>
+	<windows.h>
+	"kommandobruecke.h"
+	"mysql.h"
+	"main.h"
+
+1574783344 d:\program files\programmieren\c++\projekte c++\datenbankobjekt26112019version2\kommandobruecke.h
+
+1574371792 d:\program files\programmieren\c++\projekte c++\datenbankobjekt26112019version2\main.h
+
+1574784638 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt26112019version2\kommandobruecke.cpp
+	<iostream>
+	<windows.h>
+	"funktionen.h"
+	"kommandobruecke.h"
+	"datenbankobjekt.h"
+	"mysql.h"
+
+1574784542 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt26112019version2\funktionen.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	<string.h>
+	"funktionen.h"
+
+1574788142 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt22042020konsoleaufgithubladen\funktionen.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	<string.h>
+	"funktionen.h"
+
+1574788102 d:\program files\programmieren\c++\projekte c++\datenbankobjekt22042020konsoleaufgithubladen\funktionen.h
+	<string.h>
+
+1574788238 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt22042020konsoleaufgithubladen\kommandobruecke.cpp
+	<iostream>
+	<windows.h>
+	"funktionen.h"
+	"kommandobruecke.h"
+	"datenbankobjekt.h"
+	"mysql.h"
+
+1574786944 d:\program files\programmieren\c++\projekte c++\datenbankobjekt22042020konsoleaufgithubladen\kommandobruecke.h
+
+1574789868 d:\program files\programmieren\c++\projekte c++\datenbankobjekt22042020konsoleaufgithubladen\datenbankobjekt.h
+	<iostream>
+	<windows.h>
+	<mysql.h>
+
+1574784549 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt22042020konsoleaufgithubladen\main.cpp
+	<iostream>
+	<windows.h>
+	"kommandobruecke.h"
+	"mysql.h"
+	"main.h"
+
+1574375392 d:\program files\programmieren\c++\projekte c++\datenbankobjekt22042020konsoleaufgithubladen\main.h
+
+1587515702 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt22042020konsoleaufgithubladen\datenbankobjekt.cpp
+	<iostream>
+	"datenbankobjekt.h"
+	"funktionen.h"
+	<ctime>
+	<conio.h>
+
+1574788142 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt22042020konsoleaufgithubladengesaeubert\funktionen.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	<string.h>
+	"funktionen.h"
+
+1574788102 d:\program files\programmieren\c++\projekte c++\datenbankobjekt22042020konsoleaufgithubladengesaeubert\funktionen.h
+	<string.h>
+
+1587515983 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt22042020konsoleaufgithubladengesaeubert\kommandobruecke.cpp
+	<iostream>
+	<windows.h>
+	"funktionen.h"
+	"kommandobruecke.h"
+	"datenbankobjekt.h"
+	"mysql.h"
+
+1574786944 d:\program files\programmieren\c++\projekte c++\datenbankobjekt22042020konsoleaufgithubladengesaeubert\kommandobruecke.h
+
+1587516187 d:\program files\programmieren\c++\projekte c++\datenbankobjekt22042020konsoleaufgithubladengesaeubert\datenbankobjekt.h
+	<iostream>
+	<windows.h>
+	<mysql.h>
+
+1587515931 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt22042020konsoleaufgithubladengesaeubert\main.cpp
+	<iostream>
+	<windows.h>
+	"kommandobruecke.h"
+	"mysql.h"
+	"main.h"
+
+1574375392 d:\program files\programmieren\c++\projekte c++\datenbankobjekt22042020konsoleaufgithubladengesaeubert\main.h
+
