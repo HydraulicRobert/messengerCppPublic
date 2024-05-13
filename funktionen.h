@@ -1,7 +1,11 @@
 #ifndef FUNKTIONEN_H
 #define FUNKTIONEN_H
 #include <string.h>
-
+#include <iostream>
+#include <ctime>
+#include <windows.h>
+#include <string.h>
+using namespace std;
 class funktionen
 {
     protected:

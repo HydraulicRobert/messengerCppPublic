@@ -1,10 +1,4 @@
-#include <iostream>
 #include "datenbankobjekt.h"
-#include "funktionen.h"
-#include <ctime>
-#include <conio.h>
-
-using namespace std;
 funktionen werkzeugeDatenobjekt;
 datenbankobjekt::datenbankobjekt()
 {

@@ -294,3 +294,43 @@
 
 1574375392 d:\program files\programmieren\c++\projekte c++\datenbankobjekt22042020konsoleaufgithubladengesaeubert\main.h
 
+1715628077 source:d:\program files\programmieren\c++\projekte c++\messengercpppublic\datenbankobjekt.cpp
+	"datenbankobjekt.h"
+
+1715628073 d:\program files\programmieren\c++\projekte c++\messengercpppublic\datenbankobjekt.h
+	"funktionen.h"
+	<windows.h>
+	<mysql.h>
+	<iostream>
+	<ctime>
+	<conio.h>
+
+1715628088 d:\program files\programmieren\c++\projekte c++\messengercpppublic\funktionen.h
+	<string.h>
+	<iostream>
+	<ctime>
+	<windows.h>
+	<string.h>
+
+1715628085 source:d:\program files\programmieren\c++\projekte c++\messengercpppublic\funktionen.cpp
+	"funktionen.h"
+
+1715628099 source:d:\program files\programmieren\c++\projekte c++\messengercpppublic\kommandobruecke.cpp
+	"kommandobruecke.h"
+
+1715628097 d:\program files\programmieren\c++\projekte c++\messengercpppublic\kommandobruecke.h
+	<iostream>
+	<windows.h>
+	"funktionen.h"
+	"datenbankobjekt.h"
+	"mysql.h"
+
+1715628060 source:d:\program files\programmieren\c++\projekte c++\messengercpppublic\main.cpp
+	"main.h"
+
+1715628062 d:\program files\programmieren\c++\projekte c++\messengercpppublic\main.h
+	<iostream>
+	<windows.h>
+	"kommandobruecke.h"
+	"mysql.h"
+

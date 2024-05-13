@@ -1,10 +1,4 @@
-#include <iostream>
-#include <windows.h>
-#include "funktionen.h"
 #include "kommandobruecke.h"
-#include "datenbankobjekt.h"
-#include "mysql.h"
-using namespace std;
 kommandobruecke::kommandobruecke(const char* host, const char* nutzername, const char* passwort, const char* tabelle, unsigned int port, const char* unix_socket, unsigned long flags, const int verzoegerung)
 {
     funktion(host, nutzername, passwort, tabelle, port, unix_socket, flags, verzoegerung);

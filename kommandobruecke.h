@@ -1,6 +1,11 @@
 #ifndef KOMMANDOBRUECKE_H_INCLUDED
 #define KOMMANDOBRUECKE_H_INCLUDED
-
+#include <iostream>
+#include <windows.h>
+#include "funktionen.h"
+#include "datenbankobjekt.h"
+#include "mysql.h"
+using namespace std;
 class kommandobruecke{
     protected:
         int eingabe;

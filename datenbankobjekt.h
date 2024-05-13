@@ -1,8 +1,12 @@
 #ifndef DATENBANKOBJEKT_H
 #define DATENBANKOBJEKT_H
-#include <iostream>
+#include "funktionen.h"
 #include <windows.h>
 #include <mysql.h>
+#include <iostream>
+#include <ctime>
+#include <conio.h>
+using namespace std;
 class datenbankobjekt
 {
     protected:

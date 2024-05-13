@@ -1,10 +1,4 @@
-#include <iostream>
-#include <ctime>
-#include <windows.h>
-#include <string.h>
 #include "funktionen.h"
-using namespace std;
-
 funktionen::funktionen()
 {
 };
